@@ -21,7 +21,7 @@ html, body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-image: url('/imgs/lamp.webp');
+    background-image: url('//imgs/imggs.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
