@@ -21,7 +21,7 @@ html, body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    background-color: rgb(131, 130, 119);
+    background-color: url('/imgs/imggs.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -219,7 +219,7 @@ footer img:hover{
 
     .container{
         display: flex;
-        background-image: url('//imgs/lamp.webp');
+        background-image: url('/imgs/lamp.webp');
     }
 
     body {
